@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: vendena;
+    text-align: center;
+    color: white;
+}
+p{
+  color: gray;
+  font-size: 21px;
+}
+h1{
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.cta{
+  font-size: 16px;
+  color: aquamarine;
+}
+
+h2{
+  font-size: 42px;
+}
+.footer{
+  text-align: right;
+}
